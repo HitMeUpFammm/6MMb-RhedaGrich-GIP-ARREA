@@ -393,6 +393,10 @@ button:hover{
 	-webkit-text-stroke: 1px white;
 }
 
+theatre p{
+	padding-bottom: 25px;
+}
+
 .theatre h6{
 	font-size: 15px;
 	margin-bottom: 15px;
